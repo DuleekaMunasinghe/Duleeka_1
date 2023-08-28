@@ -17,3 +17,5 @@ class <<name of class>>
 			instance variable + methods = members of the class
 }
 */
+package Test1;
+
